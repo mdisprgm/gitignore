@@ -1,3 +1,7 @@
+# Can be deleted
+.vs
+*.recipe
+
 # Prerequisites
 *.d
 
